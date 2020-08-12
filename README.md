@@ -1,10 +1,13 @@
 ### Hi there, I'm Faheem 👋
-I'm a Software Developer! <br />
-🔭 I’m currently working on a Laravel/Vue Project! <br />
-🌱 I’m currently learning learning Flutter 🤣 <br />
-👯 I’m looking to collaborate with other content creators <br />
-🥅 2020 Goals: Contribute more to Open Source projects <br />
-⚡ Fun fact: I love to draw and play guitar / drums 
+# I'm a **Software** Developer!
+
+<hr />
+
+###### 🔭 I’m currently working on a Laravel/Vue Project! <br />
+###### 🌱 I’m currently learning learning Flutter 🤣 <br />
+###### 👯 I’m looking to collaborate with other content creators <br />
+###### 🥅 2020 Goals: Contribute more to Open Source projects <br />
+###### ⚡ Fun fact: I love to draw and play guitar / drums 
 
 ### Connect with me:
 <a href="https://faheemmalik.me"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
