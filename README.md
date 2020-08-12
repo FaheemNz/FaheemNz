@@ -1,8 +1,6 @@
 ### Hi there, I'm Faheem 👋
 # I'm a **Software** Developer!
 
-<hr />
-
 ###### 🔭 I’m currently working on a Laravel/Vue Project! <br />
 ###### 🌱 I’m currently learning learning Flutter 🤣 <br />
 ###### 👯 I’m looking to collaborate with other content creators <br />
