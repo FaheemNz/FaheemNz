@@ -7,7 +7,7 @@ I'm a Software Developer! <br />
 ⚡ Fun fact: I love to draw and play guitar / drums 
 
 ### Connect with me:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">
+<a href="https://faheemmalik.me"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
 
 <br />
 
