@@ -6,7 +6,7 @@
 ###### 🥅 2021 Goals: Contribute to Open Source projects <br /> 
 
 ### Connect with me:
-<a target="_blank" href="https://faheemmalik.me"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
+<a target="_blank" href="https://faheemnz.com"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
 
 <br />
 
