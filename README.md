@@ -2,8 +2,8 @@
 # I'm a **Software** Developer!
 
 ###### 🔭 I’m currently working on a Laravel/Vue Project! <br />
-###### 🌱 I’m currently mastering Flutter 🤣 <br />
-###### 🥅 2020 Goals: Contribute to Open Source projects <br /> 
+###### 🌱 I’m aslo working on Flutter... <br />
+###### 🥅 2021 Goals: Contribute to Open Source projects <br /> 
 
 ### Connect with me:
 <a target="_blank" href="https://faheemmalik.me"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
