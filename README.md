@@ -1,9 +1,9 @@
 ### Hi there, I'm Faheem 👋
-# I'm a **Software** Developer!
+# I'm a **Software** (**Salesforce**) Developer!
 
 ###### 🔭 Currently, I am working as a Salesforce Developer! <br />
-###### 🌱 I also keep tinkering with Flutter and DevOps... <br />
-###### 🥅 2023 Goals: Contribute to Open Source projects <br /> 
+###### 🌱 I also keep tinkering with Javascript, Flutter, Laravel, and DevOps... <br />
+###### 🥅 2024 Goals: Contribute to Open Source projects.<br /> 
 
 ### Connect with me:
 <a target="_blank" href="https://faheemnz.com"><img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></a>
